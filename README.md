@@ -96,6 +96,14 @@ dreamladder-clone/
 ```
 
 ---
+<img width="1899" height="882" alt="image" src="https://github.com/user-attachments/assets/3c61ccb8-77c6-413c-aec2-f7aa48916d05" />
+
+<img width="1881" height="863" alt="image" src="https://github.com/user-attachments/assets/94c759ab-364b-464f-bcfe-445a57f79379" />
+
+
+<img width="1865" height="863" alt="image" src="https://github.com/user-attachments/assets/5962d1c0-875a-4530-98d7-b7b411c01e24" />
+
+---
 
 ## ⚙️ Installation & Setup
 
